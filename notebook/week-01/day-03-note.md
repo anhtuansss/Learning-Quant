@@ -12,11 +12,11 @@
 # Công việc của một Quantitative Trader
 - Họ chuyên thiết kế, kiểm tra và thực thi các chiến lược thông qua mô hình toán - thống kê trên nhiều loại tài sản (cổ phiếu, trái phiếu, hàng hóa, tiền tệ, phái sinh). Các khâu chính gồm:
 
-## Valuation (Định giá): Dùng thuật toán để xác định giá trị hợp lý của tài sản dựa trên dữ liệu quá khứ.
+### Valuation (Định giá): Dùng thuật toán để xác định giá trị hợp lý của tài sản dựa trên dữ liệu quá khứ.
 
-## Execution (Thực thi lệnh): Quản lý và thực hiện các lệnh mua/bán tự động.
+### Execution (Thực thi lệnh): Quản lý và thực hiện các lệnh mua/bán tự động.
 
-## Position Management (Quản lý vị thế): Theo dõi danh mục và quản lý rủi ro thông qua hedging hoặc mua/bán.
+### Position Management (Quản lý vị thế): Theo dõi danh mục và quản lý rủi ro thông qua hedging hoặc mua/bán.
 
 # Dữ liệu và Công nghệ sử dụng
 - Dữ liệu đầu vào: Dữ liệu giá/khối lượng lịch sử (bao gồm cả dữ liệu tần suất cao - tick data), thông tin doanh nghiệp và các dữ liệu thay thế (alternative data từ thiết bị di động, vệ tinh,...).
